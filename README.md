@@ -9,4 +9,4 @@ S-Shanmukh1729/S-Shanmukh1729 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 My current Skills include
-Python,C++,C,SQL,MYSQL
+Python,C++,C,SQL,MYSQL,Data Analytics,Machine Learning.
